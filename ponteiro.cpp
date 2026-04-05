@@ -12,7 +12,6 @@ int main(){
     cout<<"O valor de v é: "<<v<<endl;
     cout<<"O endereço de v é: "<<p<<endl;
     cout<<"O valor de v é: "<<*p<<endl;
-    system("PAUSE");
 
     return 0;
 }
