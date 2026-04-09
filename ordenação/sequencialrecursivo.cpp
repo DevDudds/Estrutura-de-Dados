@@ -1,4 +1,4 @@
-u#include <iostream>
+#include <iostream>
 using namespace std;
 
 void busca(int x, int *s, int i, int n);
