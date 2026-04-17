@@ -18,7 +18,7 @@ int main() {
 
     cout<<endl<<"Dados\tEndereços"<<endl;
     cout<<pessoa->nome<<"\t"<<&pessoa->nome<<endl;
-    cout<<pessoa->idade<<"\t\t"<<&pessoa->idade<<endl;
+    cout<<pessoa->idade<<"\t"<<&pessoa->idade<<endl;
     cout<<pessoa->altura<<"\t"<<&pessoa->altura<<endl;
     
     delete pessoa;
